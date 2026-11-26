@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.agents/
+.tools/
+.impeccable/
+.taste-skill/
+.venv/
+tmp/
+test-results/
+playwright-report/
+coverage/
+package-lock.json
+next-env.d.ts
+docs/qa/design-review.json
+docs/licenses/

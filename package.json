@@ -1,0 +1,50 @@
+{
+  "name": "guto-bebidas-cardapio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cardápio digital da Guto Bebidas com catálogo Supabase e pedidos para o SDR.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amichiautomacoes/cardapio-guto-bebidas.git"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "next typegen && tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "npm run format:check && npm run typecheck && npm test && npm run build",
+    "env:check": "node scripts/check-env.mjs",
+    "test": "npm run test:unit",
+    "test:unit": "node scripts/testing/run-tests.mjs unit",
+    "test:integration": "node scripts/testing/run-tests.mjs integration",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui",
+    "test:all": "npm test && npm run test:integration && npm run test:e2e",
+    "catalog:render": "python scripts/catalog/render_pdf.py",
+    "catalog:extract": "python scripts/catalog/extract_catalog.py",
+    "catalog:link": "node --env-file-if-exists=.env --conditions=react-server --import tsx scripts/catalog/link-catalog.ts"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "postgres": "^3.4.7",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "server-only": "^0.0.1",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "prettier": "3.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

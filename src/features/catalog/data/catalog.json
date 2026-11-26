@@ -1,0 +1,2419 @@
+{
+  "source": "docs/reference/cardapio-guto-bebidas.pdf",
+  "price_date": "2026-11-25",
+  "categories": [
+    {
+      "id": "cervejas",
+      "name": "Cervejas",
+      "description": "Long neck, lata e garrafa. Trincando de gelada.",
+      "position": 1,
+      "color": "#d99a11",
+      "image": "/images/cervejas.png",
+      "expected_count": 27
+    },
+    {
+      "id": "destilados",
+      "name": "Destilados",
+      "description": "Pro drink, pra dose e pro gin tônica.",
+      "position": 2,
+      "color": "#b95520",
+      "image": "/images/destilados.png",
+      "expected_count": 46
+    },
+    {
+      "id": "vinhos-e-espumantes",
+      "name": "Vinhos e espumantes",
+      "description": "Tinto, branco, rosé e espumante pra brindar.",
+      "position": 3,
+      "color": "#9c3154",
+      "image": "/images/vinhos-e-espumantes.png",
+      "expected_count": 25
+    },
+    {
+      "id": "bebidas-nao-alcoolicas",
+      "name": "Bebidas não alcoólicas",
+      "description": "Água, refrigerante, suco e energético, tudo gelado.",
+      "position": 4,
+      "color": "#315bbb",
+      "image": "/images/bebidas-nao-alcoolicas.png",
+      "expected_count": 22
+    },
+    {
+      "id": "drinks-e-bebidas-prontas",
+      "name": "Drinks e bebidas prontas",
+      "description": "Abriu, tá pronto. Bebidas prontas, copões e doses.",
+      "position": 5,
+      "color": "#7142a4",
+      "image": "/images/drinks-e-bebidas-prontas.png",
+      "expected_count": 24
+    },
+    {
+      "id": "combos",
+      "name": "Combos",
+      "description": "Bebida que combina, num preço só.",
+      "position": 6,
+      "color": "#2d7c55",
+      "image": "/images/combos.png",
+      "expected_count": 26
+    },
+    {
+      "id": "petiscos-e-conveniencia",
+      "name": "Petiscos e conveniência",
+      "description": "O que acompanha a bebida: salgadinho e doce.",
+      "position": 7,
+      "color": "#c45e24",
+      "image": "/images/petiscos-e-conveniencia.png",
+      "expected_count": 46
+    },
+    {
+      "id": "gelos-e-acessorios",
+      "name": "Gelos e acessórios",
+      "description": "Gelo e o que faltar pro rolê.",
+      "position": 8,
+      "color": "#3995af",
+      "image": "/images/gelos-e-acessorios.png",
+      "expected_count": 7
+    },
+    {
+      "id": "tabacaria",
+      "name": "Tabacaria",
+      "description": "Produtos e acessórios de tabacaria.",
+      "position": 9,
+      "color": "#765a45",
+      "image": "/images/tabacaria.png",
+      "expected_count": 10
+    }
+  ],
+  "products": [
+    {
+      "id": "87c25688-ec56-58c8-91b7-2e4f7756b0a1",
+      "category_id": "cervejas",
+      "name": "Corona Extra Long Neck 330 ml",
+      "subcategory": "Long neck",
+      "price_cents": 850,
+      "position": 1,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "43f9de72-0d30-5d0f-9bae-351d4e2dac96",
+      "category_id": "cervejas",
+      "name": "Heineken Long Neck 330 ml",
+      "subcategory": "Long neck",
+      "price_cents": 799,
+      "position": 2,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "3a40f7ad-9f42-5999-96c7-a515cc7a1768",
+      "category_id": "cervejas",
+      "name": "Império Ultra Long Neck 275 ml",
+      "subcategory": "Long neck",
+      "price_cents": 699,
+      "position": 3,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "33964bad-74c4-57d5-89db-d7c831b02062",
+      "category_id": "cervejas",
+      "name": "Krug German Pills Long Neck 355 ml",
+      "subcategory": "Long neck",
+      "price_cents": 799,
+      "position": 4,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "17a57842-e4a3-50ef-851f-bf1a5dd624db",
+      "category_id": "cervejas",
+      "name": "Krug Light Long Neck",
+      "subcategory": "Long neck",
+      "price_cents": 799,
+      "position": 5,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "2a803842-29c3-55f0-8d53-051a215512be",
+      "category_id": "cervejas",
+      "name": "Stella Artois Pure Gold 330 ml",
+      "subcategory": "Long neck",
+      "price_cents": 850,
+      "position": 6,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "1899f292-bd9c-58ec-b4f5-5cdf2eb73c4f",
+      "category_id": "cervejas",
+      "name": "Amstel Latão 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 599,
+      "position": 7,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "a46195dd-8f76-5da1-af21-24ae0fc2ae78",
+      "category_id": "cervejas",
+      "name": "Corona Extra Latão 455 ml",
+      "subcategory": "Lata",
+      "price_cents": 799,
+      "position": 8,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "2f8a554c-87cd-59fe-b4a8-ddaebbe28ad8",
+      "category_id": "cervejas",
+      "name": "Heineken Latão",
+      "subcategory": "Lata",
+      "price_cents": 699,
+      "position": 9,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "fdb53c04-753e-5acf-9c11-84797f84b8b4",
+      "category_id": "cervejas",
+      "name": "Krug Cristal Latão 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 599,
+      "position": 10,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "fb9ea9db-c9fa-5deb-bcb4-98ba598bd9fb",
+      "category_id": "cervejas",
+      "name": "Krug German Pills Latão 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 850,
+      "position": 11,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "c76cf2b6-e5d6-5dd8-b504-011f07c2ebba",
+      "category_id": "cervejas",
+      "name": "Latão Brahma Chopp 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 599,
+      "position": 12,
+      "source_page": 2,
+      "active": true
+    },
+    {
+      "id": "db6f7787-086a-5f8a-822c-4180c544169f",
+      "category_id": "cervejas",
+      "name": "Latão Império Tradicional 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 550,
+      "position": 13,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "4b68733e-da13-5a8d-b4f5-cbb0d4eb3de1",
+      "category_id": "cervejas",
+      "name": "Latão Império Ultra 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 699,
+      "position": 14,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "ec27cc3a-2afc-5dbb-94d5-08068761ef34",
+      "category_id": "cervejas",
+      "name": "Latão Original 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 699,
+      "position": 15,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "e09ccae8-ac11-5f07-b7b9-bb44386a4767",
+      "category_id": "cervejas",
+      "name": "Latão Stella Artois 473 ml",
+      "subcategory": "Lata",
+      "price_cents": 699,
+      "position": 16,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "3c1dce50-206c-5e8a-ae08-f3db13057390",
+      "category_id": "cervejas",
+      "name": "Barrigudinha Império",
+      "subcategory": "Garrafa",
+      "price_cents": 400,
+      "position": 17,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "f3c44a81-37dd-5168-99e8-7930a4735b0a",
+      "category_id": "cervejas",
+      "name": "Heineken Garrafa 600 ml",
+      "subcategory": "Garrafa",
+      "price_cents": 1299,
+      "position": 18,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "c68d2b3b-f02a-5383-8600-589ac55babb4",
+      "category_id": "cervejas",
+      "name": "Krug German Pills 600 ml",
+      "subcategory": "Garrafa",
+      "price_cents": 1199,
+      "position": 19,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "128fa4e3-ed21-5f65-b667-45acc7bfef3b",
+      "category_id": "cervejas",
+      "name": "Original Garrafa 600 ml",
+      "subcategory": "Garrafa",
+      "price_cents": 1299,
+      "position": 20,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "4d3a000a-d1ce-581b-9fab-ebec0501b109",
+      "category_id": "cervejas",
+      "name": "Krug Austria Lager",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 999,
+      "position": 21,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "5d1bee86-86c5-55d9-9eca-871101d811ab",
+      "category_id": "cervejas",
+      "name": "Krug Ignorância Double IPA",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 2200,
+      "position": 22,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "48bed048-7197-53e0-8fac-4fea717edeb0",
+      "category_id": "cervejas",
+      "name": "Krug Light",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 1099,
+      "position": 23,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "8a9695ba-6f01-53a6-be36-7c8fcb7bf80f",
+      "category_id": "cervejas",
+      "name": "Krug Rancor American IPA",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 1990,
+      "position": 24,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "2c55d139-73d0-5703-8098-1ebf6e37920f",
+      "category_id": "cervejas",
+      "name": "Verace Nice Hop Lager",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 1691,
+      "position": 25,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "e76aa518-aa56-5274-b2ca-c8a7d6dca245",
+      "category_id": "cervejas",
+      "name": "Verace Session Dew",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 1790,
+      "position": 26,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "76a2f68b-a46b-59a9-ac43-b3c10b480c19",
+      "category_id": "cervejas",
+      "name": "Verace Syrena American IPA",
+      "subcategory": "Cervejas artesanais",
+      "price_cents": 2390,
+      "position": 27,
+      "source_page": 3,
+      "active": true
+    },
+    {
+      "id": "aedcd705-045a-5c55-9a0e-a4fd901525f5",
+      "category_id": "destilados",
+      "name": "Beefeater Blackberry",
+      "subcategory": "Gin",
+      "price_cents": 8990,
+      "position": 28,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "2a8007da-1c59-5efd-bc78-3790af18a63a",
+      "category_id": "destilados",
+      "name": "Beefeater Pink Strawberry",
+      "subcategory": "Gin",
+      "price_cents": 8990,
+      "position": 29,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "969cf392-7e9d-5d1e-89d0-0e7ebd15c250",
+      "category_id": "destilados",
+      "name": "Beefeater Tradicional",
+      "subcategory": "Gin",
+      "price_cents": 8990,
+      "position": 30,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "c22e550d-a281-5a32-946e-dd8db19f9fd9",
+      "category_id": "destilados",
+      "name": "Gin Rocks Tradicional",
+      "subcategory": "Gin",
+      "price_cents": 3490,
+      "position": 31,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "15926dd5-c85b-55b8-b375-4185d4c7d4f8",
+      "category_id": "destilados",
+      "name": "Gordons Gin 750 ml",
+      "subcategory": "Gin",
+      "price_cents": 6990,
+      "position": 32,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "61b7f98c-bcb5-5da7-b7ab-a2be1932a81e",
+      "category_id": "destilados",
+      "name": "Gordons Premium Pink",
+      "subcategory": "Gin",
+      "price_cents": 6990,
+      "position": 33,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "68147db6-6b94-54c3-a4de-9e33ce8c4190",
+      "category_id": "destilados",
+      "name": "Invictus Maçã Verde",
+      "subcategory": "Gin",
+      "price_cents": 1990,
+      "position": 34,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "a42ecc13-44b9-5d03-9e9a-77993c712840",
+      "category_id": "destilados",
+      "name": "Invictus Melancia",
+      "subcategory": "Gin",
+      "price_cents": 1990,
+      "position": 35,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "7e7afb41-8e52-592d-9ddd-e7909ba582e6",
+      "category_id": "destilados",
+      "name": "Invictus Morango com Pêssego",
+      "subcategory": "Gin",
+      "price_cents": 1990,
+      "position": 36,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "4a3cf4e5-89ad-5e37-8814-ac22325ffc95",
+      "category_id": "destilados",
+      "name": "Invictus Royale",
+      "subcategory": "Gin",
+      "price_cents": 1990,
+      "position": 37,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "bffc81e1-4f85-577e-92ac-d81827f68b73",
+      "category_id": "destilados",
+      "name": "Invictus Tradicional",
+      "subcategory": "Gin",
+      "price_cents": 1990,
+      "position": 38,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "aa7de4fa-1bdf-5b31-8246-019c717871c2",
+      "category_id": "destilados",
+      "name": "Tanqueray Tradicional",
+      "subcategory": "Gin",
+      "price_cents": 10590,
+      "position": 39,
+      "source_page": 4,
+      "active": true
+    },
+    {
+      "id": "185e3960-e426-5e16-8cea-5b358ace4d5f",
+      "category_id": "destilados",
+      "name": "Absolut Citron",
+      "subcategory": "Vodka",
+      "price_cents": 7990,
+      "position": 40,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "2e554b1c-3e39-53db-83e4-c56b87808a38",
+      "category_id": "destilados",
+      "name": "Absolut Raspberri",
+      "subcategory": "Vodka",
+      "price_cents": 7990,
+      "position": 41,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "c972ddf8-02f8-5768-9399-8a07caa849ac",
+      "category_id": "destilados",
+      "name": "Absolut Tabasco",
+      "subcategory": "Vodka",
+      "price_cents": 7990,
+      "position": 42,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "32991667-4954-54af-9e0c-78c8c44ab477",
+      "category_id": "destilados",
+      "name": "Absolut Tradicional",
+      "subcategory": "Vodka",
+      "price_cents": 7990,
+      "position": 43,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "bc5e2a5f-440b-5610-89b9-8fca3a75dc08",
+      "category_id": "destilados",
+      "name": "Absolut Vanilia",
+      "subcategory": "Vodka",
+      "price_cents": 7990,
+      "position": 44,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "b145462c-2104-549a-9aa2-62e7fa40caa0",
+      "category_id": "destilados",
+      "name": "Orloff 1 L",
+      "subcategory": "Vodka",
+      "price_cents": 2990,
+      "position": 45,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "11f52fcb-11a1-52b0-8f95-df2da52f81a2",
+      "category_id": "destilados",
+      "name": "Ballantines 10 Anos",
+      "subcategory": "Whisky",
+      "price_cents": 8990,
+      "position": 46,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "3e4d4c8b-acf7-5d95-a2f4-b2022530d961",
+      "category_id": "destilados",
+      "name": "Ballantines Finest 1 L",
+      "subcategory": "Whisky",
+      "price_cents": 7990,
+      "position": 47,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "7a5d0d87-2c4a-52f3-855e-f0c3e1d11fae",
+      "category_id": "destilados",
+      "name": "Ballantines Sunshine 700 ml",
+      "subcategory": "Whisky",
+      "price_cents": 7990,
+      "position": 48,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "65043aad-1757-5c00-9b4e-3d55e7d5bbde",
+      "category_id": "destilados",
+      "name": "Black Label",
+      "subcategory": "Whisky",
+      "price_cents": 18990,
+      "position": 49,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "4c110ff6-2ac7-54a7-bf0a-5e38a3859f42",
+      "category_id": "destilados",
+      "name": "Buchanans Deluxe 12 Anos",
+      "subcategory": "Whisky",
+      "price_cents": 19990,
+      "position": 50,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "3464df94-3940-5cb7-96c5-b4a0477e248f",
+      "category_id": "destilados",
+      "name": "Chivas 12 Anos",
+      "subcategory": "Whisky",
+      "price_cents": 12990,
+      "position": 51,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "43e90dff-924d-51c4-86d7-fcdb256a6c7e",
+      "category_id": "destilados",
+      "name": "Chivas 18 Anos",
+      "subcategory": "Whisky",
+      "price_cents": 37990,
+      "position": 52,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "b04ca234-75c0-5138-80f5-952ba35e3142",
+      "category_id": "destilados",
+      "name": "Gentleman Jack",
+      "subcategory": "Whisky",
+      "price_cents": 18990,
+      "position": 53,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "f4496569-0d87-5504-863f-ff6325778840",
+      "category_id": "destilados",
+      "name": "Gold Label",
+      "subcategory": "Whisky",
+      "price_cents": 28000,
+      "position": 54,
+      "source_page": 5,
+      "active": true
+    },
+    {
+      "id": "684725c0-1bd7-5717-9f95-a866455f2349",
+      "category_id": "destilados",
+      "name": "Jack Daniels Blackberry 1 L",
+      "subcategory": "Whisky",
+      "price_cents": 17990,
+      "position": 55,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "79eaa1d4-77ca-5827-ac5f-8a7f0800a115",
+      "category_id": "destilados",
+      "name": "Jack Daniels Fire 1 L",
+      "subcategory": "Whisky",
+      "price_cents": 14990,
+      "position": 56,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "660d4ffb-371a-5cf7-a608-c221c0e1e9d0",
+      "category_id": "destilados",
+      "name": "Jack Daniels Honey 1 L",
+      "subcategory": "Whisky",
+      "price_cents": 14990,
+      "position": 57,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "cb30525d-3e33-5161-867b-e06f757b5fb1",
+      "category_id": "destilados",
+      "name": "Jack Daniels Maçã Verde 700 ml",
+      "subcategory": "Whisky",
+      "price_cents": 11990,
+      "position": 58,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "c78845fa-d288-50d5-8a40-2cef0e3ecd49",
+      "category_id": "destilados",
+      "name": "Jack Daniels Tradicional 700 ml",
+      "subcategory": "Whisky",
+      "price_cents": 11990,
+      "position": 59,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "7c5d11a5-fbad-5d5f-aa14-596ab36b3a68",
+      "category_id": "destilados",
+      "name": "Jameson",
+      "subcategory": "Whisky",
+      "price_cents": 9490,
+      "position": 60,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "905a897f-26eb-5069-82d8-aa1f5315280f",
+      "category_id": "destilados",
+      "name": "Old Parr",
+      "subcategory": "Whisky",
+      "price_cents": 8990,
+      "position": 61,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "e1e3923d-2300-590a-a555-ea2a9a42b927",
+      "category_id": "destilados",
+      "name": "Red Label",
+      "subcategory": "Whisky",
+      "price_cents": 8999,
+      "position": 62,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "df92d270-b6cf-54ef-b318-550109451cb0",
+      "category_id": "destilados",
+      "name": "Royal Salut",
+      "subcategory": "Whisky",
+      "price_cents": 79990,
+      "position": 63,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "4b4894ce-9841-5d2e-829b-965139593f1f",
+      "category_id": "destilados",
+      "name": "Busca Brisa Garrafa 1 L",
+      "subcategory": "Rum",
+      "price_cents": 4990,
+      "position": 64,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "50a5847f-2c31-5fbf-9228-f9b10c29f5cf",
+      "category_id": "destilados",
+      "name": "Rum Montilla",
+      "subcategory": "Rum",
+      "price_cents": 3990,
+      "position": 65,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "03f664c8-43a4-5460-8322-aabd081fdf8f",
+      "category_id": "destilados",
+      "name": "Aperol 750 ml",
+      "subcategory": "Licor",
+      "price_cents": 5790,
+      "position": 66,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "0bcd9561-bb55-5042-af2d-436c35b10d79",
+      "category_id": "destilados",
+      "name": "Balena Chocolate / Caramelo",
+      "subcategory": "Licor",
+      "price_cents": 12990,
+      "position": 67,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "1adfaf0d-2261-5c21-928d-4639b7651d9f",
+      "category_id": "destilados",
+      "name": "Balena Tradicional",
+      "subcategory": "Licor",
+      "price_cents": 11990,
+      "position": 68,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "02f6d79e-ff39-55d4-8f46-ac92afe73343",
+      "category_id": "destilados",
+      "name": "Campari 1 L",
+      "subcategory": "Licor",
+      "price_cents": 5990,
+      "position": 69,
+      "source_page": 6,
+      "active": true
+    },
+    {
+      "id": "f424b2e5-3b0f-52ce-bb23-257b76fdbd35",
+      "category_id": "destilados",
+      "name": "Licor 1985 dos Copão",
+      "subcategory": "Licor",
+      "price_cents": 5990,
+      "position": 70,
+      "source_page": 7,
+      "active": true
+    },
+    {
+      "id": "a9bb46e2-8270-5349-937a-37dc7de5cf50",
+      "category_id": "destilados",
+      "name": "Licor 43",
+      "subcategory": "Licor",
+      "price_cents": 14900,
+      "position": 71,
+      "source_page": 7,
+      "active": true
+    },
+    {
+      "id": "399e3095-41c2-5cc6-9807-e77fef2c4696",
+      "category_id": "destilados",
+      "name": "Licor 43 Chocolate",
+      "subcategory": "Licor",
+      "price_cents": 17990,
+      "position": 72,
+      "source_page": 7,
+      "active": true
+    },
+    {
+      "id": "958de314-dd62-56dd-8848-1717f988df7b",
+      "category_id": "destilados",
+      "name": "Malibu Coco",
+      "subcategory": "Licor",
+      "price_cents": 6990,
+      "position": 73,
+      "source_page": 7,
+      "active": true
+    },
+    {
+      "id": "62d0db62-e818-508b-963c-0a3a997041a3",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Santa Helena Reservado Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 3990,
+      "position": 74,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "10391726-54e6-5ea6-a039-3fa5778e8057",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Baron D Arignac",
+      "subcategory": "Vinhos",
+      "price_cents": 9990,
+      "position": 75,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "e906c2de-c5b3-5221-a027-30928327c744",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Branco Rendez Vous",
+      "subcategory": "Vinhos",
+      "price_cents": 11990,
+      "position": 76,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "5594cf08-2380-521c-b4be-deb3fec2e1f0",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Cabernet Reservado",
+      "subcategory": "Vinhos",
+      "price_cents": 3990,
+      "position": 77,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "92c1b7ba-dbe8-5d2b-a95b-3076c93d2bdb",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casal Garcia Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 7990,
+      "position": 78,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "4ea2dd6e-0369-5182-b34e-c727407eb9a5",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casal Garcia Sweet",
+      "subcategory": "Vinhos",
+      "price_cents": 7990,
+      "position": 79,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "dbb92ec8-fa26-5e4f-bc82-7fd07384866c",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casal Garcia Verde",
+      "subcategory": "Vinhos",
+      "price_cents": 7990,
+      "position": 80,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "77952682-467d-5fc9-aaa5-291e599cdca5",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casillero del Diablo Blanc",
+      "subcategory": "Vinhos",
+      "price_cents": 5990,
+      "position": 81,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "40209971-a9c3-5245-8d19-ebcbb7ebc35d",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casillero del Diablo Cabernet",
+      "subcategory": "Vinhos",
+      "price_cents": 5990,
+      "position": 82,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "0e01aece-4635-5312-b36b-5351081699e1",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Casillero del Diablo Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 6990,
+      "position": 83,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "82ecc6f5-8538-5725-b6bd-a9451ead14ae",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Chateau Bel Enclos",
+      "subcategory": "Vinhos",
+      "price_cents": 6990,
+      "position": 84,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "b3f02461-e626-5076-b62d-9102dc4882ec",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Concha y Toro Sweet Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 3990,
+      "position": 85,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "789e053e-a9d5-5887-8e07-e19cf9f5185d",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Garrigue Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 4990,
+      "position": 86,
+      "source_page": 8,
+      "active": true
+    },
+    {
+      "id": "7949d868-d804-5f19-82ce-2b2ef90713bb",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho JP Chenet",
+      "subcategory": "Vinhos",
+      "price_cents": 9990,
+      "position": 87,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "39dba411-3919-5ad6-8952-ddc822906b12",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Mateus Branco",
+      "subcategory": "Vinhos",
+      "price_cents": 6690,
+      "position": 88,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "a2d43632-d236-5b85-b189-c03dc986708c",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Mateus Rosé",
+      "subcategory": "Vinhos",
+      "price_cents": 6690,
+      "position": 89,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "a062001c-b76a-581f-b8e0-6d006ee2e0c4",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Origem Cabernet Casa Valduga",
+      "subcategory": "Vinhos",
+      "price_cents": 5990,
+      "position": 90,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "2b7ac5e7-0d60-53ef-914d-a9fcf533ab4d",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Santa Helena Carmenére",
+      "subcategory": "Vinhos",
+      "price_cents": 3990,
+      "position": 91,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "cfcd460d-b518-5711-b588-1d8488397417",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Santa Helena Reservado Malbec",
+      "subcategory": "Vinhos",
+      "price_cents": 4290,
+      "position": 92,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "f3fe3378-499d-5c52-943f-a0aeb1fab44c",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Tonéletce",
+      "subcategory": "Vinhos",
+      "price_cents": 4990,
+      "position": 93,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "254590c4-5bf3-57e0-a001-44d8622ae666",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Verde Amarante",
+      "subcategory": "Vinhos",
+      "price_cents": 5490,
+      "position": 94,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "1bdcf740-a047-53ad-8a79-a21557d36dd1",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Verde Brisa Atlântica",
+      "subcategory": "Vinhos",
+      "price_cents": 5490,
+      "position": 95,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "02a55fbd-7ee3-5e8d-a8f7-2a470bbdd154",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Vinho Verde Porta 6",
+      "subcategory": "Vinhos",
+      "price_cents": 6990,
+      "position": 96,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "1cd57b73-6abf-5e2e-ae17-717fa69915ee",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Chandon Brut 750 ml",
+      "subcategory": "Espumantes",
+      "price_cents": 10990,
+      "position": 97,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "337a0508-a146-5bb7-8de6-65c3407e7086",
+      "category_id": "vinhos-e-espumantes",
+      "name": "Chandon Brut Rosé",
+      "subcategory": "Espumantes",
+      "price_cents": 11990,
+      "position": 98,
+      "source_page": 9,
+      "active": true
+    },
+    {
+      "id": "437f9e95-7aee-57d9-b44c-84fab66e3101",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Água sem Gás",
+      "subcategory": "Águas",
+      "price_cents": 290,
+      "position": 99,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "8f6e67db-15a8-574a-934c-f16f20468356",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Coca Cola 2 L",
+      "subcategory": "Refrigerantes",
+      "price_cents": 1399,
+      "position": 100,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "5dfd04b9-9019-57a0-b596-7717c9195556",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Coca Cola Lata 350 ml",
+      "subcategory": "Refrigerantes",
+      "price_cents": 599,
+      "position": 101,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "a7d54b03-3e8c-5b17-ac15-81f58fee6b0e",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Coca Cola Zero 2 L",
+      "subcategory": "Refrigerantes",
+      "price_cents": 1399,
+      "position": 102,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "fc7ddf57-3907-5543-8bff-ad5469a23a3f",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Coca Cola Zero Lata 350 ml",
+      "subcategory": "Refrigerantes",
+      "price_cents": 599,
+      "position": 103,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "f70a8b6b-c47d-5db1-9a3f-f75ddb2ec4ad",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Guaraná Original 2 L",
+      "subcategory": "Refrigerantes",
+      "price_cents": 1099,
+      "position": 104,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "70ac4960-f49d-58bc-a78c-5f7b5f5cda3c",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Guaraná Original Lata 350 ml",
+      "subcategory": "Refrigerantes",
+      "price_cents": 499,
+      "position": 105,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "aaf84eee-59b4-5aef-b584-e39b8b6c89dc",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Guaraná Zero 2 L",
+      "subcategory": "Refrigerantes",
+      "price_cents": 1099,
+      "position": 106,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "4514bc43-fe50-5315-af8d-93cdec53f16e",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Guaraná Zero Lata 350 ml",
+      "subcategory": "Refrigerantes",
+      "price_cents": 499,
+      "position": 107,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "3a3019ec-51ae-5836-b2ff-23f82b1f9609",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Suco Manga Tial 1 L",
+      "subcategory": "Sucos",
+      "price_cents": 850,
+      "position": 108,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "229c4577-39dc-578f-89e9-a1b8b86ea4d5",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Suco Tial Pêssego 1 L",
+      "subcategory": "Sucos",
+      "price_cents": 850,
+      "position": 109,
+      "source_page": 10,
+      "active": true
+    },
+    {
+      "id": "daee68b4-f755-533e-8b43-e21d9315c4e2",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Suco Tial Uva 1 L",
+      "subcategory": "Sucos",
+      "price_cents": 850,
+      "position": 110,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "45a615f9-2a04-5539-96f4-57d044220348",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Baly 2 L",
+      "subcategory": "Energéticos",
+      "price_cents": 1000,
+      "position": 111,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "69b11cb1-375a-5c70-8106-56f92e60d3bb",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Monster Mango Loco Lata 473 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1200,
+      "position": 112,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "5f91dea2-9569-5c21-8403-835634b07fad",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Monster Tradicional Lata 473 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1200,
+      "position": 113,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "9becae6d-7e92-54ed-801f-093fb094ac3d",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Monster Zero Açúcar Lata 473 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1200,
+      "position": 114,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "4e302f04-1ca0-5efc-8005-b073479cd779",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Red Bull Melancia 250 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1050,
+      "position": 115,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "d867aac7-59d6-5a07-b391-be9e8aba0797",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Red Bull Morango e Pêssego 250 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1050,
+      "position": 116,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "5dc6b5b1-162a-5a5b-8335-be48003c8420",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Red Bull Tradicional 250 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1000,
+      "position": 117,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "01e52a23-a09a-5e50-b4f9-6ec8bd65041c",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Red Bull Tropical 250 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1000,
+      "position": 118,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "d674a769-6b82-50bd-9f4a-f8df2c2e00cb",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Red Bull Zero 250 ml",
+      "subcategory": "Energéticos",
+      "price_cents": 1000,
+      "position": 119,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "143d531f-28f5-5b1d-b447-ae50bfc75ff6",
+      "category_id": "bebidas-nao-alcoolicas",
+      "name": "Império sem Álcool Long Neck 275 ml",
+      "subcategory": "Cerveja sem álcool",
+      "price_cents": 699,
+      "position": 120,
+      "source_page": 11,
+      "active": true
+    },
+    {
+      "id": "f74a082f-50c1-54a0-9cdd-e45f7f1847c1",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Mascate Melancia",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 1000,
+      "position": 121,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "79daacd1-50a7-52a5-9807-a5fadabb11f7",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Skol Beats GT Long Neck",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 899,
+      "position": 122,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "844587b5-6ae7-536b-b393-a68a80ba7097",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Skol Beats Pink Lemonade",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 899,
+      "position": 123,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "90898c9d-799e-5ea0-a3c5-71d1ea21c991",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Skol Beats Redmix Long Neck",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 899,
+      "position": 124,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "d7584cf5-50ee-5168-b578-4eb8834d238a",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Skol Beats Senses Long Neck",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 899,
+      "position": 125,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "d1cd5d7c-9323-5b1b-a25a-1ebd2d7b8652",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Xeque Mate Lata",
+      "subcategory": "Bebidas prontas",
+      "price_cents": 1000,
+      "position": 126,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "a79861b5-bdf0-5942-9182-c727fd52bbfc",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Ballantines / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 2500,
+      "position": 127,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "beb5c85e-b2e6-586a-91d0-4c02dc0a7116",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Ballantines Sunshine / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3000,
+      "position": 128,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "204e5a22-f1f6-50aa-b5af-988f5fa51c84",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Beefeater / Monster / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3200,
+      "position": 129,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "d94e34ea-945d-576e-966a-d806f3667eac",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Beefeater / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3000,
+      "position": 130,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "5eaa618e-d414-5afd-889c-8ace0342af2e",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Buchanans / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3500,
+      "position": 131,
+      "source_page": 12,
+      "active": true
+    },
+    {
+      "id": "c78e00d8-c6c3-53d8-b047-06ab12fea857",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Chivas 12 Anos / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3500,
+      "position": 132,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "038fc386-bf19-542f-a028-87cc0c501d47",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Invictus / Baly / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 1500,
+      "position": 133,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "284378db-ac6b-53ff-9946-33170ccb4f5e",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Rock´s Melancia com Baly",
+      "subcategory": "Copões",
+      "price_cents": 1500,
+      "position": 134,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "da0a25ec-c59b-5892-b8d6-294b4a2ac42f",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Rocks / Baly / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 2000,
+      "position": 135,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "84c5d928-f2fe-5f1e-8ac1-184af04a417a",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Rocks com Baly",
+      "subcategory": "Copões",
+      "price_cents": 1500,
+      "position": 136,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "fd6eaba6-31bc-51b5-ac63-b532cd8a4b73",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Tanqueray / Beefeater com Monster",
+      "subcategory": "Copões",
+      "price_cents": 3200,
+      "position": 137,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "88e83f56-c3d2-5368-8bda-861002f189a2",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Copão Tanqueray / Red Bull / Gelo Coco Leve",
+      "subcategory": "Copões",
+      "price_cents": 3500,
+      "position": 138,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "906062af-6f50-5c69-9518-d503a47a8ccf",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Mansão Maromba Double Dark",
+      "subcategory": "Copões",
+      "price_cents": 1899,
+      "position": 139,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "a16921f9-2292-5342-b7ea-f6c42a051be1",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Mansão Maromba Gin de Melancia Combo",
+      "subcategory": "Copões",
+      "price_cents": 1899,
+      "position": 140,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "e72d7ee0-72d2-517a-b5da-92a006e9dc0e",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Mansão Maromba Maçã Verde",
+      "subcategory": "Copões",
+      "price_cents": 1899,
+      "position": 141,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "fb0692e8-fedb-5fbd-8c1f-e08220132897",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Mansão Maromba Whisk Combo",
+      "subcategory": "Copões",
+      "price_cents": 1899,
+      "position": 142,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "58e961fd-945d-53ac-b798-770034453bf6",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Dose Ballantines Sunshine",
+      "subcategory": "Doses",
+      "price_cents": 1250,
+      "position": 143,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "57b1cb6d-f85a-5e22-9f8f-4e59f54e9c19",
+      "category_id": "drinks-e-bebidas-prontas",
+      "name": "Dose Chivas 12 Anos",
+      "subcategory": "Doses",
+      "price_cents": 2000,
+      "position": 144,
+      "source_page": 13,
+      "active": true
+    },
+    {
+      "id": "f19b46cc-7a42-5fe2-8044-1112df24581b",
+      "category_id": "combos",
+      "name": "Combo Absolut",
+      "subcategory": "",
+      "price_cents": 14990,
+      "position": 145,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "1ba234a2-ae60-54e2-8abb-7b4bb7909f83",
+      "category_id": "combos",
+      "name": "Combo Ballantines 1 L",
+      "subcategory": "",
+      "price_cents": 14990,
+      "position": 146,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "313f7afc-ff5e-5c30-b530-cbca1754aa7f",
+      "category_id": "combos",
+      "name": "Combo Ballantines 10 Anos",
+      "subcategory": "",
+      "price_cents": 15990,
+      "position": 147,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "5f5cfea4-d857-57a0-a458-df47017988fc",
+      "category_id": "combos",
+      "name": "Combo Ballantines Sunshine",
+      "subcategory": "",
+      "price_cents": 14990,
+      "position": 148,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "7930d98d-b699-56a3-a306-0a5b7f3b882e",
+      "category_id": "combos",
+      "name": "Combo Beefeater (Ps, Trad, Black)",
+      "subcategory": "",
+      "price_cents": 15990,
+      "position": 149,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "88547ef9-c6da-5fce-9f1b-750524384ed5",
+      "category_id": "combos",
+      "name": "Combo Black Label",
+      "subcategory": "",
+      "price_cents": 25990,
+      "position": 150,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "8ef3b4a0-cf7b-5bca-aa79-4e8e8b3eb8e9",
+      "category_id": "combos",
+      "name": "Combo Buchanans",
+      "subcategory": "",
+      "price_cents": 26990,
+      "position": 151,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "a1464832-c195-5c59-b72b-85492fa3a5a0",
+      "category_id": "combos",
+      "name": "Combo Chivas 12 Anos",
+      "subcategory": "",
+      "price_cents": 19990,
+      "position": 152,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "885c98c8-0f0f-5898-83ca-a4c902601b17",
+      "category_id": "combos",
+      "name": "Combo Chivas 18",
+      "subcategory": "",
+      "price_cents": 44990,
+      "position": 153,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "f0de8fbd-6bf2-52fa-9453-5ea22c58036d",
+      "category_id": "combos",
+      "name": "Combo Gentleman Jack",
+      "subcategory": "",
+      "price_cents": 25990,
+      "position": 154,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "45c1f642-a8a1-5084-911a-9b3e5f66b707",
+      "category_id": "combos",
+      "name": "Combo Gold Label",
+      "subcategory": "",
+      "price_cents": 35000,
+      "position": 155,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "a9806ff1-ad02-5790-86d2-9af0c61d5aaf",
+      "category_id": "combos",
+      "name": "Combo Gordons",
+      "subcategory": "",
+      "price_cents": 13990,
+      "position": 156,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "461790c4-e72d-5609-b103-6ccb571efefb",
+      "category_id": "combos",
+      "name": "Combo Invictus com Baly",
+      "subcategory": "",
+      "price_cents": 4740,
+      "position": 157,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "7441432c-279d-5eba-8c52-f1b35e266140",
+      "category_id": "combos",
+      "name": "Combo Invictus com Red Bull",
+      "subcategory": "",
+      "price_cents": 8990,
+      "position": 158,
+      "source_page": 14,
+      "active": true
+    },
+    {
+      "id": "8a8f0081-f632-5a5c-8b50-889b52aa3fc3",
+      "category_id": "combos",
+      "name": "Combo Jack Daniels Blackberry",
+      "subcategory": "",
+      "price_cents": 24990,
+      "position": 159,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "1295601d-b28e-59d2-88d6-cb5558efe69d",
+      "category_id": "combos",
+      "name": "Combo Jack Daniels Honey",
+      "subcategory": "",
+      "price_cents": 21990,
+      "position": 160,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "a1df2e36-7869-5f34-8aff-d9c7c02ddd85",
+      "category_id": "combos",
+      "name": "Combo Jack Daniels Tradicional / 5 Gelo Coco / 5 Red Bull",
+      "subcategory": "",
+      "price_cents": 18990,
+      "position": 161,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "390c7d17-b5b5-53ef-a3ee-d2a32ea56392",
+      "category_id": "combos",
+      "name": "Combo Jack Fire",
+      "subcategory": "",
+      "price_cents": 21990,
+      "position": 162,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "78d2fc50-6694-5aca-8fdc-dc2de616d5ad",
+      "category_id": "combos",
+      "name": "Combo Jack Maçã Verde",
+      "subcategory": "",
+      "price_cents": 18990,
+      "position": 163,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "329ae68b-82d7-5242-8dfe-0a6d2c7ca56d",
+      "category_id": "combos",
+      "name": "Combo Jameson",
+      "subcategory": "",
+      "price_cents": 16490,
+      "position": 164,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "8abe2d90-c1e0-54c4-b8b2-b509db7d1838",
+      "category_id": "combos",
+      "name": "Combo Old Parr",
+      "subcategory": "",
+      "price_cents": 15990,
+      "position": 165,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "73463b47-6d88-59d8-878a-8ef5bffc3d69",
+      "category_id": "combos",
+      "name": "Combo Red Label",
+      "subcategory": "",
+      "price_cents": 15999,
+      "position": 166,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "965cd12d-7482-517a-a2da-932274e80838",
+      "category_id": "combos",
+      "name": "Combo Rocks com Baly",
+      "subcategory": "",
+      "price_cents": 6240,
+      "position": 167,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "3c91d157-ee7c-5444-a447-614f49079bb3",
+      "category_id": "combos",
+      "name": "Combo Rocks Red Bull",
+      "subcategory": "",
+      "price_cents": 10490,
+      "position": 168,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "42bae1a7-b0ae-51e0-b7bd-fddaac8ff56e",
+      "category_id": "combos",
+      "name": "Combo Royal Salut",
+      "subcategory": "",
+      "price_cents": 86990,
+      "position": 169,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "67c856da-f3aa-55ae-aa6f-66a204636b57",
+      "category_id": "combos",
+      "name": "Combo Tanqueray",
+      "subcategory": "",
+      "price_cents": 17590,
+      "position": 170,
+      "source_page": 15,
+      "active": true
+    },
+    {
+      "id": "dfcc662f-9eb4-5d94-9d77-a63b0b1c64ee",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Baconzitos Chips",
+      "subcategory": "Salgadinhos",
+      "price_cents": 750,
+      "position": 171,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "a1bca8ce-d9bc-5aa3-ac04-d0830cb2788f",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Barbieri Bacon Salgadinho",
+      "subcategory": "Salgadinhos",
+      "price_cents": 699,
+      "position": 172,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "06b0016b-a02f-520f-a677-a01d0501447d",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Doritos Chips 32 g",
+      "subcategory": "Salgadinhos",
+      "price_cents": 790,
+      "position": 173,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "6a927e05-4c31-5b5a-bb4b-3af54eb7d60c",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Fandangos Presunto Chips",
+      "subcategory": "Salgadinhos",
+      "price_cents": 490,
+      "position": 174,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "d5ed055d-0e50-54aa-a94b-541c8687aad0",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Pingo D'Ouro Picanha",
+      "subcategory": "Salgadinhos",
+      "price_cents": 1450,
+      "position": 175,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "c211b663-9767-57f1-ab17-12d778b932a1",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Provô Sabor Lemmon Pepper",
+      "subcategory": "Salgadinhos",
+      "price_cents": 2290,
+      "position": 176,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "b14936bf-b3ac-540e-99d5-a94b4e6864b9",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Provô Sabor Vinho",
+      "subcategory": "Salgadinhos",
+      "price_cents": 2290,
+      "position": 177,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "7fdac61a-0c0b-52f8-81a2-97061635757f",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Provô Tradicional",
+      "subcategory": "Salgadinhos",
+      "price_cents": 2290,
+      "position": 178,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "0fb1116c-6f70-5d2e-be88-b40b55d121fc",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Ruffles Cebola e Salsa Chips",
+      "subcategory": "Salgadinhos",
+      "price_cents": 990,
+      "position": 179,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "5792b722-200e-598a-8ee4-0ea2e153f265",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Ruffles Churrasco Chips",
+      "subcategory": "Salgadinhos",
+      "price_cents": 699,
+      "position": 180,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "dec7288e-2f3e-54b6-a8a7-42b3f8147a9a",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Salgadinho Barbieri Pimenta",
+      "subcategory": "Salgadinhos",
+      "price_cents": 699,
+      "position": 181,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "b1b9c983-27c1-5a23-9da4-3c8157615aa5",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Torcida Sabor Bacon",
+      "subcategory": "Salgadinhos",
+      "price_cents": 450,
+      "position": 182,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "e8606567-73f1-5f88-b0e2-1b5ec8c430ef",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Torcida Sabor Churrasco",
+      "subcategory": "Salgadinhos",
+      "price_cents": 450,
+      "position": 183,
+      "source_page": 16,
+      "active": true
+    },
+    {
+      "id": "92dfad70-f250-5976-82a0-aeeca2e2271a",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Tostitos Salgadinho Pimenta Mexicana",
+      "subcategory": "Salgadinhos",
+      "price_cents": 1490,
+      "position": 184,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "53c06d9a-f970-5fbd-a6a3-083d0cd9494c",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bala Azedinha Morango",
+      "subcategory": "Doces",
+      "price_cents": 50,
+      "position": 185,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "239b8bc9-8628-5fe6-a738-3cc02ce4ec30",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bala Azedinha Uva",
+      "subcategory": "Doces",
+      "price_cents": 50,
+      "position": 186,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "fc16a606-0cdf-551e-a1fe-c6a88d42b5f0",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bala Lilith Maçã Verde",
+      "subcategory": "Doces",
+      "price_cents": 50,
+      "position": 187,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "7b0b11f8-e1c2-5a5c-b210-109029a75613",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bala Lilith Melancia",
+      "subcategory": "Doces",
+      "price_cents": 50,
+      "position": 188,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "6e68c021-3f3f-552d-b57c-ae35fa6c2cd7",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bombom Ouro Branco Unidade",
+      "subcategory": "Doces",
+      "price_cents": 250,
+      "position": 189,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "4fd91f70-73f3-5569-90e8-3aaa6821b8ec",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bombom Prestígio Unidade",
+      "subcategory": "Doces",
+      "price_cents": 450,
+      "position": 190,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "ab0967b6-fa25-5006-a367-876966c5a617",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Bombom Rafaello Unidade",
+      "subcategory": "Doces",
+      "price_cents": 490,
+      "position": 191,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "31978968-5387-57c6-96b4-d335a0394c29",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Ferrero Rocher Caixa com 8 Unidades",
+      "subcategory": "Doces",
+      "price_cents": 3990,
+      "position": 192,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "c9bc4af9-487c-5822-a8c9-3074aba3be36",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Fine Tubes Azedinho Morango e Nata",
+      "subcategory": "Doces",
+      "price_cents": 290,
+      "position": 193,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "b60e57a5-99ff-56e6-9e23-61ecc7a5466f",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Fine Tubes Azedinhos Uva",
+      "subcategory": "Doces",
+      "price_cents": 290,
+      "position": 194,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "5ad0fd32-2241-52a2-bbd4-cbdb636137c9",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Fine Tubes Morango e Nata",
+      "subcategory": "Doces",
+      "price_cents": 290,
+      "position": 195,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "42babb2b-b915-550c-92d2-4f0d0d47c301",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Fini Minhocas Azedinhas",
+      "subcategory": "Doces",
+      "price_cents": 390,
+      "position": 196,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "9fac89bc-745a-50d7-805f-bdce808ac986",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Halls Blueberry",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 197,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "66e620a7-b43b-5383-8f6b-7cde0c27c00b",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Halls Cereja",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 198,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "06ca14e5-14d8-5657-8430-790562716948",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Halls Melancia",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 199,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "fa7e6d34-e7f5-513c-8cd5-ce96d550b3f8",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Halls Preta Extra Forte",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 200,
+      "source_page": 17,
+      "active": true
+    },
+    {
+      "id": "333df3c2-d47d-5501-80e7-3fb442a23078",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Halls Uva Verde",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 201,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "7ae4bc3c-e56a-549c-9c63-a8ec1b472be5",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Kinder Chocolate Unidade",
+      "subcategory": "Doces",
+      "price_cents": 1490,
+      "position": 202,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "63bb8a9d-204b-5b2b-b91d-ec687b4caed1",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "M&M Chocolate",
+      "subcategory": "Doces",
+      "price_cents": 990,
+      "position": 203,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "9f8bda10-be5f-5480-8aa4-4982d055b085",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Mentos Frutas Vermelhas",
+      "subcategory": "Doces",
+      "price_cents": 490,
+      "position": 204,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "6043a55e-22b6-5494-bd97-abb98ffc0acf",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Mentos Rainbow",
+      "subcategory": "Doces",
+      "price_cents": 490,
+      "position": 205,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "6e58b3b9-9cc4-57c6-aaaf-13056b6b3b2e",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Paçoca Paçoquita",
+      "subcategory": "Doces",
+      "price_cents": 200,
+      "position": 206,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "574ed75b-bcd0-51f4-ab32-65bc4f576780",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Pirulito Pop",
+      "subcategory": "Doces",
+      "price_cents": 150,
+      "position": 207,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "5f47e4e7-d41c-5ad1-8d9c-83582b9611e1",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Snickers Unidade",
+      "subcategory": "Doces",
+      "price_cents": 590,
+      "position": 208,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "fff56179-8b8d-515d-9390-ecfd7ce5b920",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trento Branco Dark Unidade",
+      "subcategory": "Doces",
+      "price_cents": 390,
+      "position": 209,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "ca09a46c-7149-517b-b3fb-fff6851b32ff",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trento Chocolate Unidade",
+      "subcategory": "Doces",
+      "price_cents": 390,
+      "position": 210,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "c5db67b0-ea38-5120-babd-0c94a2a8611a",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Hortelã",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 211,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "9e2338e3-baf4-50e3-a07e-898fc3e7f72d",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Melancia",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 212,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "e742598c-1629-5ab4-9e4b-e91924b2557b",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Menta",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 213,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "e350e6cf-ecee-5022-beff-fada99621085",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Xsense Cereja Ice",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 214,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "bbd1c996-1d76-5827-93a2-1ab00908046f",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Xsense Herbal",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 215,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "5635da2e-4f9e-5908-b926-a610b628917d",
+      "category_id": "petiscos-e-conveniencia",
+      "name": "Trident Xsense Intense",
+      "subcategory": "Doces",
+      "price_cents": 350,
+      "position": 216,
+      "source_page": 18,
+      "active": true
+    },
+    {
+      "id": "cba3fc53-a192-57fd-ad32-ddc0cdc71a9a",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Abacaxi Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 217,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "31724ccb-091a-5b8d-bf21-8fae9745131d",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Água de Coco Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 218,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "7e5e28ee-cef1-5341-b638-172d657e9711",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Busca Brisa Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 219,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "b575f5ed-c7f8-51f6-916a-caa92cc0a138",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Maçã Verde Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 220,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "e8aba919-83f3-5079-bebd-841b6f49100d",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Melancia Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 221,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "016ba615-b860-5be3-8941-8c1fa3e6aaf1",
+      "category_id": "gelos-e-acessorios",
+      "name": "Gelo Morango Coco Leve",
+      "subcategory": "Gelos",
+      "price_cents": 350,
+      "position": 222,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "0d73187c-666d-50e9-8b40-7d7651e64c92",
+      "category_id": "gelos-e-acessorios",
+      "name": "Cuia",
+      "subcategory": "Acessórios gerais",
+      "price_cents": 2000,
+      "position": 223,
+      "source_page": 19,
+      "active": true
+    },
+    {
+      "id": "8e12d96e-9d18-5a1d-90c9-5fbba4cde6df",
+      "category_id": "tabacaria",
+      "name": "Cigarro Picado 031 / Ouro Negro",
+      "subcategory": "",
+      "price_cents": 200,
+      "position": 224,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "35ead572-b74a-5451-a5a0-1a872744c97d",
+      "category_id": "tabacaria",
+      "name": "Cigarro Picado Coyote / Porto Faria",
+      "subcategory": "",
+      "price_cents": 300,
+      "position": 225,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "e18d5f14-879f-5863-8697-54bdfb9c4599",
+      "category_id": "tabacaria",
+      "name": "Isqueiro BIC Pequeno",
+      "subcategory": "",
+      "price_cents": 590,
+      "position": 226,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "a1055ee2-338b-515e-b1c5-19a13cc3a830",
+      "category_id": "tabacaria",
+      "name": "Isqueiro Transparente",
+      "subcategory": "",
+      "price_cents": 350,
+      "position": 227,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "40d0c2bb-988c-52a3-aabe-008366edc629",
+      "category_id": "tabacaria",
+      "name": "Maço Cigarro 031",
+      "subcategory": "",
+      "price_cents": 2000,
+      "position": 228,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "c6f31d85-bc46-5181-aab3-a17df91d8366",
+      "category_id": "tabacaria",
+      "name": "Maço Coyote",
+      "subcategory": "",
+      "price_cents": 2490,
+      "position": 229,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "e93ef309-7e19-5fc1-a415-08406b01caaf",
+      "category_id": "tabacaria",
+      "name": "Maço Porto Faria",
+      "subcategory": "",
+      "price_cents": 2990,
+      "position": 230,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "70990af1-a181-527c-84de-28200c4edf58",
+      "category_id": "tabacaria",
+      "name": "Seda Elements Unidade",
+      "subcategory": "",
+      "price_cents": 900,
+      "position": 231,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "bf7c1bc1-6aeb-526a-a9c6-6fb1e0872d65",
+      "category_id": "tabacaria",
+      "name": "Seda Raw Unidade",
+      "subcategory": "",
+      "price_cents": 1200,
+      "position": 232,
+      "source_page": 20,
+      "active": true
+    },
+    {
+      "id": "41aecc64-b6bb-5683-9383-e7b0dfa723f1",
+      "category_id": "tabacaria",
+      "name": "Seda Zomo Unidade",
+      "subcategory": "",
+      "price_cents": 450,
+      "position": 233,
+      "source_page": 20,
+      "active": true
+    }
+  ]
+}
